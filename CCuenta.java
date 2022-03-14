@@ -1,6 +1,6 @@
 package Cuentas;
 
-//Pruebas
+//Pruebas1
 
 public class CCuenta {
 
